@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: rgb(251, 255, 38);
+}
+
+img{
+    border-radius: 50%;
+ 
+}
+
+#image{
+    text-align: center;
+   
+}
+
+#sobre{
+    background-color: rgb(54, 54, 54);
+    padding: 5px;
+    border-radius: 15px;
+    text-align: center;
+    margin: 10px;
+}
+
+#forma{
+    background-color: rgb(54, 54, 54);
+    padding: 5px;
+    border-radius: 15px;
+    text-align: center;
+    margin: 10px;
+}
+#bot{
+    text-decoration: none;
+   color: white;
+   background-color: rgb(54, 54, 54);
+   transition: 0.3s;
+   padding: 5px;
+   margin: 10px;
+   border-radius: 15px;
+}
+#insta{
+    text-align: center;
+}
+#bot:hover{
+    font-size: 1.2em;
+    color: rgb(53, 255, 3);
+    background-color: white;
+}
+
+
+
+
